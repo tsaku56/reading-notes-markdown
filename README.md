@@ -29,4 +29,6 @@ After ![content] this is used for accessability reading to describe image.
 #### Inserting links
 
 You can do this by [Link](https://unsplash.com/)  
-Using [] for parenthesis then adding content in ()
+Using [] for parenthesis then adding content in ()  
+
+ReadMe Files, are used to accessability for other developers to join into projects and be able to commmunicate to others.
