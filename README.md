@@ -1,6 +1,6 @@
 # Syntax Markdown
 
-### Using # (1-6) For Header sizes
+### Using # (1-6) For Header sizes. The First 2 #'s are Underlined.
 
 **Double * at either side Makes bold writing**
 
