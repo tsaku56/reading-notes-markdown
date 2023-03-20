@@ -18,7 +18,7 @@ Unordered lists using dashes:
 - Computers
 - Life
 
-#### block quote
+#### Block quote
 
 > Using > makes a block quote
 
