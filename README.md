@@ -36,3 +36,5 @@ Using [] for Link name then adding content in parenthesis()
 ReadMe Files, are used to accessability for other developers to join into projects and be able to commmunicate to others.  
 
 Email is straight forward hi@thiswork.com
+
+More hints and tips ![Here](https://www.markdownguide.org/cheat-sheet/)
