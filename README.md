@@ -33,4 +33,6 @@ After ![content] this is used for accessability reading to describe image.
 You can do this by [Link](https://unsplash.com/)  
 Using [] for Link name then adding content in parenthesis()  
 
-ReadMe Files, are used to accessability for other developers to join into projects and be able to commmunicate to others.
+ReadMe Files, are used to accessability for other developers to join into projects and be able to commmunicate to others.  
+
+Email is straight forward hi@thiswork.com
