@@ -2,7 +2,7 @@
 
 ### Norwhich Code 102d4
 
-**Double * Makes bold writing**
+**Double * at either side Makes bold writing**
 
 #### Lists ordered and unordered
 
@@ -20,3 +20,6 @@ Unordered lists:
 
 > Using > makes a block quote
 
+#### Insert image
+
+![This is rabbit] https://images.unsplash.com/photo-1679238757336-a001691abb5d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxNHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60
