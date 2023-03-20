@@ -4,13 +4,15 @@
 
 **Double * at either side Makes bold writing**
 
-#### Lists ordered and unordered
+#### Lists ordered and unordered  
+
+Ordered lists using numbers:
 
 1. Numbered list creates ordered list
 2. Double space at the end of line to create next paragraph
 3. Growth Mindest
 
-Unordered lists:  
+Unordered lists using dashes:  
 
 - Using dashes creates an un ordered list.
 - Computers
