@@ -28,4 +28,5 @@ After ![content] this is used for accessability reading to describe image.
 
 #### Inserting links
 
-You can do this by [Link](https://unsplash.com/)
+You can do this by [Link](https://unsplash.com/)  
+Using [] for parenthesis then adding content in ()
