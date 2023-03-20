@@ -1,23 +1,22 @@
-# Reading Notes Demo
+# Syntax Markdown
 
 ### Norwhich Code 102d4
 
-**Document Content**
+**Double * Makes bold writing**
 
-1. Breif Intro
-2. About
+#### Lists ordered and unordered
+
+1. Numbered list creates ordered list
+2. Double space at the end of line to create next paragraph
 3. Growth Mindest
 
-#### Introduction
+Unordered lists:  
 
-Hi my name is me.  
-
-Passions:  
-
-- Games
+- Using dashes creates an un ordered list.
 - Computers
 - Life
 
 #### block quote
 
 > Using > makes a block quote
+
