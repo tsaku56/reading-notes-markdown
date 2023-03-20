@@ -39,7 +39,7 @@ Email is straight forward hi@thiswork.com
 
 More hints and tips [Here](https://www.markdownguide.org/cheat-sheet/)
 
-| Syntax | Description |
+ Syntax | Description |
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
